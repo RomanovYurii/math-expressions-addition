@@ -1,0 +1,23 @@
+{
+  "name": "adding-expressions",
+  "version": "1.0.0",
+  "description": "Application made as a test task",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.1.0",
+    "prettier": "^2.0.5"
+  },
+  "prettier": {
+    "tabWidth": 4,
+    "useTabs": true,
+    "semi": true,
+    "singleQuote": true
+  }
+}
